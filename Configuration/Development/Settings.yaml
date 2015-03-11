@@ -1,0 +1,9 @@
+TYPO3:
+  Flow:
+    persistence:
+      backendOptions:
+        dbname: 'pivot'
+        user: 'root'
+        password: ''
+  TypoScript:
+    enableContentCache: FALSE

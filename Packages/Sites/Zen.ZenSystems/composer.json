@@ -1,0 +1,12 @@
+{
+    "name": "zen/zen-systems",
+    "type": "typo3-flow-site",
+    "require": {
+        "moc/pivot": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zen\\ZenSystems": "Classes"
+        }
+    }
+}

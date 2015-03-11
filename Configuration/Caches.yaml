@@ -1,0 +1,7 @@
+# Flow_Session_*
+Flow_Session_MetaData:
+  backendOptions:
+    cacheDirectory: '%FLOW_PATH_DATA%Session/Flow_Session_MetaData'
+Flow_Session_Storage:
+  backendOptions:
+    cacheDirectory: '%FLOW_PATH_DATA%Session/Flow_Session_Storage'
