@@ -759,7 +759,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@git.moc.net/Flow/Packages/MOC.Pivot.git",
-                "reference": "138e3492b208217a782f9893cd8b2d5f3705e9bd"
+                "reference": "8ff1ba6bb211c0b40ba3a43fff32f4feb608f3ad"
             },
             "require": {
                 "networkteam/neos-mailobfuscator": "*",
@@ -773,7 +773,7 @@
                 }
             },
             "description": "Pivot",
-            "time": "2015-03-11 14:06:58"
+            "time": "2015-04-27 12:17:20"
         },
         {
             "name": "networkteam/neos-mailobfuscator",
