@@ -2,7 +2,7 @@ TYPO3:
   Flow:
     persistence:
       backendOptions:
-        dbname: 'pivot'
+        dbname: 'zensystem'
         user: 'root'
         password: ''
   TypoScript:
