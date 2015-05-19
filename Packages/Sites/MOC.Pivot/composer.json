@@ -1,12 +1,13 @@
 {
-    "name": "zen/zen-systems",
+    "name": "moc/pivot-site",
+    "description": "MOC Pivot site package",
     "type": "typo3-flow-site",
     "require": {
         "moc/pivot": "*"
     },
     "autoload": {
         "psr-0": {
-            "Zen\\ZenSystems": "Classes"
+            "MOC\\Pivot": "Classes"
         }
     }
 }

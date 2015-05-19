@@ -1,10 +1,14 @@
 {
-	"name": "moc/zensystems-base-distribution",
-	"description" : "Neos Base Distribution for the ZenSystems website",
+	"name": "moc/pivot-base-distribution",
+	"description" : "Neos Base Distribution for the MOC Pivot website kickstarter package",
 	"authors": [{
 		"name": "Aske Ertmann",
 		"email": "aertmann@gmail.com",
 		"role": "Developer"
+	},{
+			"name": "Jan-Erik Revsbech",
+			"email": "janerik@moc.net",
+			"role": "Developer"
 	}],
 	"license": "GPL-3.0+",
 	"repositories": [
