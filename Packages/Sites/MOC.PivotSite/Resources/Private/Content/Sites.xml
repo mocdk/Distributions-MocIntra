@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
- <site name="moc-pivot" state="1" siteResourcesPackageKey="MOC.Pivot" siteNodeName="mocpivot">
+ <site name="moc-pivot" state="1" siteResourcesPackageKey="MOC.PivotSite" siteNodeName="mocpivot">
   <nodes formatVersion="2.0">
    <node nodeName="mocpivot">
     <variant workspace="live" nodeType="TYPO3.Neos.NodeTypes:Page" sortingIndex="100" version="1" removed="" hidden="" hiddenInIndex="">
