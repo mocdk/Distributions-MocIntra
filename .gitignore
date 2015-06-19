@@ -11,6 +11,8 @@
 /bin/
 /Readme.txt
 /Upgrading.txt
+/Readme.rst
+/Upgrading.rst
 /flow
 /flow.bat
 /Configuration/**/Settings.yaml.example

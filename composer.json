@@ -26,19 +26,32 @@
 		"bin-dir": "bin"
 	},
 	"require": {
-		"typo3/neos": "1.2.*",
-		"typo3/neos-nodetypes": "1.2.*",
+		"typo3/neos": "2.0.*@beta",
+		"typo3/neos-nodetypes": "2.0.*@beta",
 		"doctrine/migrations": "@dev",
 		"typo3/swiftmailer": "*@dev",
 		"networkteam/neos-mailobfuscator": "1.0.*",
-	  	"moc/pivot": "dev-master"
+	  	"moc/pivot": "dev-master",
+		"typo3/neos-kickstarter": "2.0.*@beta",
+		"typo3/neos-seo": "~1.0",
+		"typo3/imagine": "~2.0",
+		"typo3/twitter-bootstrap": "~2.0",
+		"typo3/form": "~2.0",
+		"typo3/setup": "~2.0",
+		"typo3/typo3cr": "2.0.*@beta",
+		"typo3/typoscript": "2.0.*@beta",
+		"typo3/media": "2.0.*@beta",
+		"typo3/flow": "3.0.*@beta",
+		"typo3/fluid": "3.0.*@beta",
+		"typo3/eel": "3.0.*@beta",
+		"typo3/party": "3.0.*@beta",
+		"typo3/kickstart": "3.0.*@beta"
 	},
 	"require-dev": {
-		"typo3/buildessentials": "2.3.*",
+		"typo3/buildessentials": "3.0.*@beta",
 		"mikey179/vfsstream": "1.4.*",
 		"phpunit/phpunit": "4.3.*",
 		"flowpack/behat": "dev-master",
-	  	"typo3/neos-kickstarter": "~1.2",
 		"typo3/surf": "dev-master"
 	},
 	"suggest": {
