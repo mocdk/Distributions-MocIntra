@@ -1,8 +1,8 @@
 TYPO3:
-  Flow:
+0;95;c  Flow:
     persistence:
       backendOptions:
-        dbname: 'mocpivot'
+        dbname: 'mocintra'
         user: 'root'
         password: ''
   TypoScript:
